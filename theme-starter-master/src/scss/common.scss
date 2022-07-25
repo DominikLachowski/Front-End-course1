@@ -13,6 +13,13 @@ html {
 body {
   max-width: 100vw;
   width: 100vw;
+  height: 100vh;
   overflow-x: hidden;
   margin: 0;
+  //background-image: url("https://images.unsplash.com/photo-1451847251646-8a6c0dd1510c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80");
+  background: url("./img/windturbine_background.jpg") no-repeat center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
