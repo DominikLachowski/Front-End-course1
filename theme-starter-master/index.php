@@ -9,7 +9,6 @@ get_header();
 			<h1>Log in </h1>
 
 			<p>Log in with your data that you received from the photographer</p>
-			<p>heyo123</p>
 
 			<form>
 				<input class="LoginPage__container--email" type="text" placeholder="E-mail">
